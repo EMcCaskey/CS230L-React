@@ -1,4 +1,4 @@
-import './App.css';
+import './App2.css';
 import Navbar from './navbar.js'; 
 import Card from './cards.js';
 
