@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from './navbar.js'; 
+import Navbar from './Navbar.js'; 
 import Card from './cards.js';
 
 function App() {
